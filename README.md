@@ -5,6 +5,8 @@ I'm a final year Computer Science undergrad from Dhaka, Bangladesh. Currently I'
 - Cross Platform App Development ( Flutter )
 - Cloud Computing
 - Linux Sysadmin
+
+[My personal website](https://nafiasib.com) | [Notes](https://notes.nafiasib.com)
 <!--
 **NafiAsib/NafiAsib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,7 +1,7 @@
 ### Hello! 👋 I'm Nafi
 
 I'm a final year Computer Science undergrad from Dhaka, Bangladesh. Currently I'm interested in 
-- Full Stack Web Development ( Angular, Node.js, Flask, Django)
+- Full Stack Web Development ( React, Angular, Node.js, Flask, Django)
 - Cross Platform App Development ( Flutter )
 - Cloud Computing
 - Linux Sysadmin

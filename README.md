@@ -1,9 +1,8 @@
 ### Hello! 👋 I'm Nafi
 
-I'm a final year Computer Science undergrad from Dhaka, Bangladesh. Currently I'm interested in 
-- Full Stack Web Development ( React, Angular, Node.js, Flask, Django)
+I'm a Software Engineer based in Dhaka, Bangladesh. Currently I'm working on 
+- Full Stack Web Development ( JavaScript )
 - Cross Platform App Development ( Flutter )
-- Cloud Computing
 - Linux
 
 📫 [My personal website](https://nafiasib.com) 

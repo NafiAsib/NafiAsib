@@ -1,7 +1,7 @@
 ### Hello! 👋 I'm Nafi
 
 I'm a Software Engineer based in Dhaka, Bangladesh. Currently I'm working on 
-- Full Stack Web Development ( JavaScript )
+- Full Stack Web Development ( JavaScript, Golang )
 - Cross Platform App Development ( Flutter )
 - Linux
 
